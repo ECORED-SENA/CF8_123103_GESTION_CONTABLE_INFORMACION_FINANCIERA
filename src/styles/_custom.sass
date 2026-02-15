@@ -3,30 +3,184 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    right: 80%
   &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 10%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 71%
+    right: 70%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and ( max-width: $bp-max-lg )
+    background-image: url("../assets/curso/portada/fondo-banner-principal-tb.png") !important
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-mv.png") !important
 
 .banner-principal__row .banner-principal__img
   width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: black !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+.bg
+  &-intro1
+    background-image: url(../assets/curso/intro/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-intro2 
+    background-color: #E6DCFB
+  &-c3 
+    background-color: #FD9826
+    background-repeat: repeat-x
+    background-position: center
+    border-top-right-radius: 1rem
+    border-bottom-right-radius: 1rem
+
+    @media screen and (max-width: $bp-max-sm)
+      background-repeat: repeat
+
+  &-icon-ul
+    background-image: url('../assets/curso/tema1/bg-sub2.svg')
+    background-repeat: no-repeat
+    background-size: 16px 16px
+    width: 16px
+    height: 16px
+    display: inline-block
+    flex-shrink: 0
+    margin-right: 8px
+    margin-top: 0px
+  &-t1-1 
+    background-image: url(../assets/curso/tema1/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-t1-2 
+    background-color: #F2ECFD
+    border-radius: 10px
+  &-t1-3 
+    background-color: #BCE0FC
+  &-t1-4 
+    background-color: #E8E8E8
+  &-t1-5
+      thead th
+        background-color: #FED6A8 !important
+        text-align: center
+  &-t1-6 
+    thead th
+      background-color: #636363 !important
+      text-align: center
+      color: #FFF
+  &-t1-7 
+    background-color: #FED6A8 !important
+  &-t1-8
+    background-color: #F6F6F6 !important
+  &-t1-9 
+    background-color: #DDEFFD
+    border-radius: 10px
+  &-t1-10 
+    background-color: #DDEFFD
+  &-t1-11 
+    background-color: #412976
+  &-t1-12 
+    background-color: #F3F0EA
+    border-radius: 10px
+  &-t1-13
+    background-image: url(../assets/curso/tema1/bg3.png)
+    background-repeat: no-repeat
+    background-size: cover
+  &-t1-14
+    background-image: url(../assets/curso/tema1/bg4.png)
+    background-repeat: no-repeat
+    background-size: cover
+  &-t1-15 
+    background-color: #EDF7FE
+    border-radius: 10px
+
+.titulo-tres
+  margin-bottom: 1.5rem
+  h3
+    margin-left: 2rem
+    margin-right: 1rem
+    margin-bottom: 0
+  background-color: $color-acento-contenido
+  display: inline-block
+  padding: 0.5rem 1rem
+  border-radius: 0.5rem
+  position: relative
+  &::before
+    content: url('../assets/curso/tema1/icon1.svg')
+    position: absolute
+    top: 0
+    left: 0
+    transform: translate(-50%, -15%)
+    width: 64px
+
+
+.tabla-scroll 
+  overflow-x: auto
+  max-width: 100%
+
+table
+  width: 100%
+  min-width: 300px
+  border-collapse: collapse
+
+
+th, td 
+  padding: 8px
+  text-align: left
+  border: 1px solid #ddd
+
+.table.table-bordered
+  width: 100%
+  border-collapse: collapse
+
+  th, td 
+    padding: 12px
+    text-align: left
+    border: 1px solid #ddd
+    min-height: 40px
+    height: 100%
+
+  tbody tr
+    height: 50px
+
+@media (max-width: 768px)
+  .tabla-scroll
+    overflow-x: auto
+    display: block
+  
+  table
+    min-width: 600px
+
+  th, td 
+    white-space: normal
+
+.a-m
+  margin-top: -40px
+ 
