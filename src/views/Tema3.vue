@@ -13,9 +13,9 @@
           .row.align-items-center
             .col-lg-8
               .row.p-4.bg-t1-2(data-aos="fade-left")
-                p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad, si su importe en libros se recuperará fundamentalmente a través de una transacción de venta a diferencia de activos que tienen uso continuos los cuales tienen otra finalidad. 
+                p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad si su importe en libros se recuperará fundamentalmente a través de una transacción de venta, a diferencia de activos que tienen uso continuo, los cuales tienen otra finalidad. 
 
-                p Para efectuar la clasificación anterior, el activo debe estar a disposición y en condiciones actuales para su venta inmediata sujeto a los términos usuales y habituales para la venta y negociado razonablemente; este debe ser vendido en menos de un año.
+                p Para efectuar la clasificación anterior, el activo debe estar a disposición y en condiciones actuales para su venta inmediata, sujeto a los términos usuales y habituales para la venta y negociado razonablemente; este debe ser vendido en menos de un año.
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema3/img1.png', alt='', style="width: 295px").m-auto
@@ -29,7 +29,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/tema3/img2.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 La política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
+              p.mb-0 La política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación; según la NIIF 5 “Activos no corrientes mantenidos para la venta”. Se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
@@ -41,7 +41,7 @@
       p Los activos que se encuentran mantenidos para la venta NO serán objeto de depreciación, mientras el mismo esté clasificado con esas características.
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso.
+      p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor; además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que en este tipo de activos el valor se recupera con la venta y no con su uso.
 
       .row.justify-content-center.bg-t1-15.p-5.align-items-center
             

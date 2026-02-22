@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1(data-aos="zoom-in") Propiedad planta y equipo
+      h1(data-aos="zoom-in") Propiedad, planta y equipo
 
     .row.bg-t1-1
       .col-12
@@ -53,7 +53,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1  Política Contable PPYE
+      h2 1.1  Política contable PPYE
 
     p La propiedad, planta y equipo (PPYE) se reconoce por su costo inicial, el cual incluye todos los desembolsos necesarios para poner el activo en condiciones de uso. Posteriormente, se mide al costo menos la depreciación acumulada y cualquier pérdida por deterioro. La depreciación se calcula de forma sistemática según la vida útil estimada de cada activo. Estos se dan de baja del balance cuando se venden, reemplazan o dejan de generar beneficios económicos.
 
@@ -75,7 +75,7 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/img3.png', alt='', style="width: 406px").m-auto
 
-          p.mt-4 Por ende, es indispensable hacer referencia a la ley 1819 del 2016, en el cual se modifica el artículo 137 del Estatuto Tributario en el cual se establece lo siguiente:
+          p.mt-4 Por ende, es indispensable hacer referencia a la ley 1819 del 2016, en la cual se modifica el artículo 137 del Estatuto Tributario, en el cual se establece lo siguiente:
 
           .row.justify-content-center.mt-4
             .col-lg-8
@@ -141,12 +141,12 @@
           
     .titulo-tres: h3 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
     
-    p Sin embargo, según la norma internacional y la política contable definida por cada entidad los años de vida útil la establece la empresa, así mismo, el valor residual que es el valor recuperable una vez se haya depreciado totalmente el activo.
+    p Sin embargo, según la norma internacional y la política contable definida por cada entidad, los años de vida útil los establece la empresa, así mismo, el valor residual, que es el valor recuperable una vez que se haya depreciado totalmente el activo.
 
     p #[b Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:]
 
     .row.mt-4.bg-t1-4.p-4
-      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9 % E.A. 
+      p La empresa ABC Ltda. responsable de IVA, compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S, responsable de IVA, gran contribuyente. Además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000. Los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9 % E.A. 
 
       .row
         .col-lg-5
@@ -225,7 +225,7 @@
 
     .row.mt-4.justify-content-center
       .col-lg-10
-        p.p-4.bg-t1-9 Así mismo, se debe reconocer la propiedad, planta y equipo que se adquiera en moneda extranjera haciendo la conversión a la moneda de presentación de los estados financieros, teniendo en cuenta la TRM (tasa representativa del mercado) en el momento en el que ocurrió el hecho económico. 
+        p.p-4.bg-t1-9 Así mismo, se debe reconocer la propiedad, planta y equipo que se adquiera en moneda extranjera, haciendo la conversión a la moneda de presentación de los estados financieros, teniendo en cuenta la TRM (tasa representativa del mercado) en el momento en el que ocurrió el hecho económico. 
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -236,9 +236,9 @@
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8.p-4.bg-t1-2(data-aos="fade-left")
-              p Cuando se compra una propiedad, planta y equipo en moneda extranjera, se debe tener en cuenta el criterio de medición implementado. Teniendo en cuenta que se reconoce el costo en el momento de la transacción, es allí, donde se realiza la conversión a la moneda funcional.
+              p Cuando se compra una propiedad, planta y equipo en moneda extranjera, se debe tener en cuenta el criterio de medición implementado. Teniendo en cuenta que se reconoce el costo en el momento de la transacción, es allí donde se realiza la conversión a la moneda funcional.
 
-              p Si el activo se reconoce a valor razonable, se presentaría variación de la moneda, por lo que, al cierre del periodo contable, se debe hacer el ajuste de la diferencia en cambio. Si se presenta aumento del valor de la moneda es una valorización y si sufre una disminución en deterioro, el cual se presenta como un gasto en los estados financieros. 
+              p Si el activo se reconoce a valor razonable, se presentaría variación de la moneda, por lo que, al cierre del periodo contable, se debe hacer el ajuste de la diferencia en cambio. Si se presenta aumento del valor de la moneda, es una valorización, y si sufre una disminución es un deterioro, el cual se presenta como un gasto en los estados financieros. 
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/img4.png', alt='', style="width: 480px").m-auto
@@ -246,7 +246,7 @@
           p.mt-4 #[b Ejemplo:]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p La empresa ABC Ltda., responsable de IVA compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
+            p La empresa ABC Ltda., responsable de IVA, compra una máquina en el exterior para uso de la empresa por valor de USD 5.000. En la fecha de la compra, la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se recibe en Colombia y está dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
@@ -655,17 +655,17 @@
       h2 1.5 Reconocimiento, medición, presentación y revelación
 
     .row.p-4.bg-t1-12
-      p #[b Reconocimiento:] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
+      p #[b Reconocimiento:] al momento de reconocer un bien como propiedad, planta y equipo, se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa; además, debe cumplir con la condición de que el precio de ese activo sea fiable. 
 
     .row.p-4.bg-t1-12.mt-4
-      p #[b Medición inicial:] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
+      p #[b Medición inicial:] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, el cual se debe tener presente no solo el valor de compra del activo, sino también los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
 
     .row.p-4.bg-t1-12.justify-content-center.mt-4
-      p #[b Medición posterior:] después de estar usando un bien y disminución de su vida útil se puede medir con los siguientes criterios: 
+      p #[b Medición posterior:] después de estar usando un bien y de la disminución de su vida útil. Se puede medir con los siguientes criterios: 
       .col-lg-11
         .row.p-5.bg-t1-13.justify-content-center
           p
-          p.mt-4 #[b Modelo del costo:] este modelo consiste en disminuir del costo inicial el valor de la depreciación acumula, así como, el valor por deterioro si lo hay, en el monumento de cierre del periodo.
+          p.mt-4 #[b Modelo del costo:] este modelo consiste en disminuir del costo inicial el valor de la depreciación acumulada, así como el valor por deterioro si lo hay, en el momento de cierre del periodo.
 
           p #[b Ejemplo:] la empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $6.500.000, adicionalmente se canceló servicio de transporte por $250.000, se estima un desmantelamiento en 10 años por valor de $2.000.000 a una tasa de 6 % EA
 
@@ -838,7 +838,7 @@
                   td.text-end $2.236.614
 
     .row.mt-4
-      p.p-4.bg-t1-12 #[b Presentación y revelación:] la propiedad, planta y equipo se presenta y se revela teniendo en cuenta el criterio de medición de cada uno de los elementos de propiedad, planta y equipo, los métodos de depreciación utilizados, los años de vida útil, el valor de salvamento que es el valor residual que queda del activo después de su depreciación transcurrido los años de vida útil, si se presentó deterioro por cualquier factor en el transcurso del tiempo, los incrementos o disminuciones surgidas de revaluaciones, por diferencia en cambio sí se presenta, entre otras variaciones.
+      p.p-4.bg-t1-12 #[b Presentación y revelación:] la propiedad, planta y equipo se presenta y se revela teniendo en cuenta el criterio de medición de cada uno de los elementos de propiedad, planta y equipo, los métodos de depreciación utilizados, los años de vida útil, el valor de salvamento, que es el valor residual que queda del activo después de su depreciación transcurrido los años de vida útil, si se presentó deterioro por cualquier factor en el transcurso del tiempo, los incrementos o disminuciones surgidas de revaluaciones, por diferencia en cambio, sí se presenta, entre otras variaciones.
 
     .tarjeta.bg-t1-11.p-4.mt-4
       .row.justify-content-around.align-items-center

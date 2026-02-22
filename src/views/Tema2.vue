@@ -9,7 +9,7 @@
 
     .row.align-items-center
       .col-lg-8
-        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
+        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también en las personas naturales, que para muchos es su actividad diaria. Igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-up")
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
@@ -23,9 +23,9 @@
         .p-5
           .row.align-items-center
             .col-lg-8
-              p Las políticas contables deben ser coherentes, claras y legibles; por ello, se debe tener en cuenta la Norma Internacional de Contabilidad (NIC) 8 para NIIF plenas y Norma NIIF para Pymes en la sección 10 “Políticas, Estimaciones Y Errores Contables” de acuerdo con el tipo de empresa y grupo de presentación de información financiera.
+              p Las políticas contables deben ser coherentes, claras y legibles; por ello, se debe tener en cuenta la Norma Internacional de Contabilidad (NIC) 8 para NIIF plenas y Norma NIIF para Pymes en la sección 10 “Políticas, estimaciones y errores contables” de acuerdo con el tipo de empresa y grupo de presentación de información financiera.
 
-              p Para la elaboración de las políticas contables de las propiedades de inversión es importante tener en cuenta los criterios de reconocimiento, medición, presentación y revelación, establecidos en la Norma Internacional de Contabilidad (NIC) 40.
+              p Para la elaboración de las políticas contables de las propiedades de inversión, es importante tener en cuenta los criterios de reconocimiento, medición, presentación y revelación, establecidos en la Norma Internacional de Contabilidad (NIC) 40.
             .col-lg-4
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema2/img2.png', alt='', style="width: 295px").m-auto
@@ -147,7 +147,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2. Reconocimiento, medición, presentación y revelación  
 
-    p.p-4.bg-t1-12 #[b Reconocimiento:] la propiedad de inversión se reconoce cuando genere beneficios económicos en el futuro y el costo de esa propiedad de inversión sea confiable. Cabe resaltar, que los costos adicionales en que se incurran son reconocidos como mayor valor del bien, excepto los mantenimientos de estas propiedades que no son reconocidos en el activo, sino en el gasto.
+    p.p-4.bg-t1-12 #[b Reconocimiento:] la propiedad de inversión se reconoce cuando genere beneficios económicos en el futuro y el costo de esa propiedad de inversión sea confiable. Cabe resaltar que los costos adicionales en que se incurra son reconocidos como mayor valor del bien, excepto los mantenimientos de estas propiedades, que no son reconocidos en el activo, sino en el gasto.
 
     .p-2
       .row.p-4.bg-t1-12.justify-content-center
@@ -220,7 +220,7 @@
                     td.text-end -
                     td.text-end $50.000.000 
 
-    p.mt-4.p-4.bg-t1-12 #[b Medición posterior:] las empresas pueden medir al costo o valor razonable las propiedades de inversión, pero debe estar debidamente explícito en la política contable. Sin embargo, aunque la norma no obliga a que debe ser a valor razonable se enfoca en este tipo de criterio de medición, independientemente, si se tiene experiencia con la propiedad de inversión o si es nuevo para la empresa.
+    p.mt-4.p-4.bg-t1-12 #[b Medición posterior:] las empresas pueden medir al costo o valor razonable las propiedades de inversión, pero debe estar debidamente explícito en la política contable. Sin embargo, aunque la norma no obliga a que deba ser a valor razonable, se enfoca en este tipo de criterio de medición, independientemente, si se tiene experiencia con la propiedad de inversión o si es nuevo para la empresa.
 
     p.p-4.bg-t1-12 #[b Presentación y revelación:] la propiedad de inversión se presenta y se revela teniendo en cuenta el criterio de medición inicialmente estipulados en la política contable. Si es a valor razonable, se debe tener en cuenta que al cierre del periodo se debe hacer el ajuste de acuerdo con el valor del mercado, así mismo, se debe revelar los ingresos obtenidos y los gastos incurridos en esa inversión.
 

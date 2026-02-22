@@ -3,7 +3,7 @@ export default {
     Name:
       'Reconocimiento de propiedad, planta y equipo, propiedades de inversión y activos mantenidos para la venta',
     Description:
-      'En este componente se desarrolla la unidad temática de propiedad, planta y equipo o lo que denominamos en la normativa contable, “bienes de uso” o “activos fijos”. Estos, son indispensables para el funcionamiento de las organizaciones. Por lo tanto, se debe identificar las necesidades requeridas de los activos, sus características, objetivo, finalidad y normatividad vigente aplicable.',
+      'En este componente se desarrolla la unidad temática de propiedad, planta y equipo o lo que denominamos en la normativa contable “bienes de uso” o “activos fijos”. Estos son indispensables para el funcionamiento de las organizaciones. Por lo tanto, se deben identificar las necesidades requeridas de los activos, sus características, objetivo, finalidad y normatividad vigente aplicable.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -37,7 +37,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Propiedad planta y equipo',
+        titulo: 'Propiedad, planta y equipo',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -237,9 +237,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'xyz xyz',
-          cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gomez Perez',
+          cargo: 'Responsable del ecosistema',
+          centro: ' Centro Agroturístico- Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
